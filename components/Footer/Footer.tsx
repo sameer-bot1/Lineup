@@ -1,6 +1,5 @@
 import Image from "next/image";
 import React from "react";
-import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaYoutube } from "react-icons/fa";
 import { FaDiscord } from "react-icons/fa";
@@ -22,12 +21,14 @@ function Footer() {
                         width={240}
                         height={30}
                     />
+                <p className="text-white ml-14">Making a Web3 safe place </p>
                 </div>
 
                 <div className="h-1/2 w-full flex md:flex-row flex-col justify-around items-start pl-20 pt-10">
                     <div className="p-5 ">
                         <ul>
                             <p className="text-white font-bold text-xl pb-4">More About Quill</p>
+                            
 
                             <li className="text-white text-sm  pb-2 font-semibold hover:text-red-300  cursor-pointer">
                                 About Us

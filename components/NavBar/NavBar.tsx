@@ -11,7 +11,7 @@ const NavBar = () => {
   };
 
   return (
-    <div className='sticky top-0 z-50 bg-gradient-to-r from-indigo-900 to-indigo-950 border-b-2 border-gray-300'>
+    <div className='sticky top-0 z-50  bg-gradient-to-r from-indigo-900 to-indigo-950 border-b-2 border-gray-300'>
       <div className='flex justify-between p-3 px-10 md:hidden'>
         <Image src='/QA.webp' alt='logo' width={140} height={30} />
         <button onClick={toggleMenu} className="text-white focus:outline-none">
