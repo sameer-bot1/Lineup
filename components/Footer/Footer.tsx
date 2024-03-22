@@ -64,7 +64,7 @@ function Footer() {
                             </div>
                             <p className="text-white text-sm">Office 104/105 Level 1,
                                 Emaar Square12, Building 4
-                                Sheikh Mohammed Bin Rashid
+                                Sheikh Mohammed Bin1 Rashid
                                 Boulevard Downtown Dubai,
                                 United Arab Emirates
                                 P.O box: 416654</p>
