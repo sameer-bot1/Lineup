@@ -63,7 +63,7 @@ function Footer() {
                                 <p className="text-white font-bold text-base pb-4 pt-4">Our Location:</p>
                             </div>
                             <p className="text-white text-sm">Office 104/105 Level 1,
-                                Emaar Square, Building 4
+                                Emaar Square1, Building 4
                                 Sheikh Mohammed Bin Rashid
                                 Boulevard Downtown Dubai,
                                 United Arab Emirates
